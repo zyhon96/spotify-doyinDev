@@ -1,0 +1,15 @@
+.sidebar {
+  border: 1px solid black;
+  height: 100vh;
+  flex: 0.2;
+  background-color: #040404;
+  height: 100vh;
+  max-width: 230px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+}
+.sidebar__logo svg{
+padding: 10px;
+
+}
